@@ -1,2 +1,2 @@
 # Java-Fundamentals
-Exercise by SoftUni
+Exercises by SoftUni
